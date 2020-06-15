@@ -1,0 +1,28 @@
+{
+  "engines": {
+    "node": "12.15.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "description": "this an api to get corona statistics ",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DadiAnas/Chatbot.git"
+  },
+  "author": "Anas Dadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DadiAnas/Chatbot/issues"
+  },
+  "homepage": "https://github.com/DadiAnas/Chatbot#readme"
+}
